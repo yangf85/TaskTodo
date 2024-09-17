@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskApi", "TaskApi\TaskApi.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskTodo.Shared", "TaskTodo.Shared\TaskTodo.Shared.csproj", "{0593CE1F-DEA8-4633-B9CC-B4BC43D0A872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp", "TaskApp\TaskApp\TaskApp.csproj", "{75E0B7F1-C72C-4D22-9430-F0BA109EF825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskApp", "TaskApp\TaskApp\TaskApp.csproj", "{75E0B7F1-C72C-4D22-9430-F0BA109EF825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp.Client", "TaskApp\TaskApp.Client\TaskApp.Client.csproj", "{65ECB17E-0FB5-41C6-8A17-A6A294C95977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskApp.Client", "TaskApp\TaskApp.Client\TaskApp.Client.csproj", "{65ECB17E-0FB5-41C6-8A17-A6A294C95977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
